@@ -7,6 +7,11 @@ h1{
 	text-align: center;
 	background-color:black;
 	color: white;}
+
+p{
+	font-size: 115%;
+	color: purple;
+}
 	
 footer{
 	font-size:75%;
@@ -26,8 +31,9 @@ footer{
 	font-family: "Comic Sans MS";
 }
 #picture{
-	margin-top: 75px;
-	margin-bottom: 75px;
-	margin-left: 75px;
-	margin-right: 75px
+	padding-top: 25px;
+	padding-bottom: 25px;
+	padding-left: 25px;
+	padding-right: 25px
+	border-radius: 50%;
 }
